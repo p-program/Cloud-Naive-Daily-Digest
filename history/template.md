@@ -1,7 +1,7 @@
-【Cloud Naive Daily Digest 幼稚云技术日报 2020-11-11】
+~【Cloud Naive Daily Digest 幼稚云技术日报 】
 
-1. CoreOS VS Docker容器大战，之容器引擎
-https://www.kubernetes.org.cn/2250.html
+1. 
+
 
 2. 
 
