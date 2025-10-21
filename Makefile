@@ -12,3 +12,7 @@ auto_commit:
 new:
 	mkdir -p history/$(shell date +%Y-%m)
 	cp history/template.md history/$(shell date +%Y-%m)/$(shell date +%Y-%m-%d).md
+
+issue:
+	mkdir -p .github/ISSUE_TEMPLATE/
+	cp history/template.md .github/ISSUE_TEMPLATE/template.md
