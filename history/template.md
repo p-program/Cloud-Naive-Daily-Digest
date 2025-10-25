@@ -12,5 +12,5 @@
 Edited today by: Zeusro
 Archive of Cloud Naive Daily Digest:
 https://github.com/p-program/Cloud-Naive-Daily-Digest/issues/
-喜欢的话点个 ⭐️ 或者 watch 哦 ~
+喜欢的话请直接打钱 ~
 If you like it, give it a ⭐️ or watch ~
